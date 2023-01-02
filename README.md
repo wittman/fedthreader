@@ -125,7 +125,7 @@ Quail, crush, conclude, and quell! 3/3
 
 ### Other Configuration
 
-Checkmark `URLs only considered 23 characters long` to turn on special URL handling to get a more text into each post when large URLs are involved.
+Checkmark `URLs only considered 23 characters long` to turn on special URL handling to get more text into each post when large URLs are involved.
  
 [Mastodon](https://mastodon.help) allows long URLs to only be consider 23 characters long—this option takes advantage of that.
 
